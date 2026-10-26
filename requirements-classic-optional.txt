@@ -1,0 +1,3 @@
+# Only for the optional ASR/AJDC signal methods.
+asrpy==0.0.8
+pyriemann==0.12

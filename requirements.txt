@@ -1,0 +1,12 @@
+# Core packages from the captured working ADE environment (Python 3.12).
+# The supplied RF bundle was saved with scikit-learn 1.9.1.
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+matplotlib==3.11.2
+openpyxl==3.1.5
+mne==1.13.2
+autoreject==0.5.1
+PyWavelets==1.10.0
+scikit-learn==1.9.1
+joblib==1.6.0

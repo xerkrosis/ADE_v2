@@ -1,0 +1,4 @@
+-r requirements.txt
+# Keep an already working CUDA build from the captured environment if present.
+# The original training environment used torch 2.13.0+cu130.
+torch==2.13.0
